@@ -459,7 +459,7 @@
    </palette>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Сравнение Exel таблиц</string>
   </property>
   <property name="tabShape">
    <enum>QTabWidget::Rounded</enum>
